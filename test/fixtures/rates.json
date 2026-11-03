@@ -1,0 +1,108 @@
+{
+ "asOf": "2026-11-03T00:39:58.210Z",
+ "source": "https://interestratedecision.com/about/",
+ "licence": "Free to reuse with a link to https://interestratedecision.com",
+ "rates": [
+  {
+   "bank": "fed",
+   "name": "Federal Reserve",
+   "rateName": "federal funds rate (target range)",
+   "rate": 4,
+   "rangeLow": 3.75,
+   "lastChange": "2026-09-16T18:00:00.000Z",
+   "nextDecision": "2026-12-09T19:00:00.000Z",
+   "page": "https://interestratedecision.com/fed/",
+   "history": "https://interestratedecision.com/fed/rate-history.csv"
+  },
+  {
+   "bank": "ecb",
+   "name": "European Central Bank",
+   "rateName": "deposit facility rate",
+   "rate": 2.5,
+   "lastChange": "2026-09-10T12:15:00.000Z",
+   "nextDecision": "2026-12-17T13:15:00.000Z",
+   "page": "https://interestratedecision.com/ecb/",
+   "history": "https://interestratedecision.com/ecb/rate-history.csv"
+  },
+  {
+   "bank": "boe",
+   "name": "Bank of England",
+   "rateName": "Bank Rate",
+   "rate": 3.75,
+   "lastChange": "2025-12-18T12:00:00.000Z",
+   "nextDecision": "2026-11-05T12:00:00.000Z",
+   "page": "https://interestratedecision.com/boe/",
+   "history": "https://interestratedecision.com/boe/rate-history.csv"
+  },
+  {
+   "bank": "boj",
+   "name": "Bank of Japan",
+   "rateName": "short-term policy interest rate",
+   "rate": 1.25,
+   "lastChange": "2026-09-18T02:54:26.623Z",
+   "nextDecision": "2026-12-18T03:00:00.000Z",
+   "page": "https://interestratedecision.com/boj/",
+   "history": "https://interestratedecision.com/boj/rate-history.csv"
+  },
+  {
+   "bank": "boc",
+   "name": "Bank of Canada",
+   "rateName": "overnight rate target",
+   "rate": 2.5,
+   "lastChange": "2026-10-28T13:45:00.000Z",
+   "nextDecision": "2026-12-09T14:45:00.000Z",
+   "page": "https://interestratedecision.com/boc/",
+   "history": "https://interestratedecision.com/boc/rate-history.csv"
+  },
+  {
+   "bank": "rba",
+   "name": "Reserve Bank of Australia",
+   "rateName": "cash rate target",
+   "rate": 4.6,
+   "lastChange": "2026-09-29T04:30:00.000Z",
+   "nextDecision": "2026-11-03T03:30:00.000Z",
+   "page": "https://interestratedecision.com/rba/",
+   "history": "https://interestratedecision.com/rba/rate-history.csv"
+  },
+  {
+   "bank": "rbnz",
+   "name": "Reserve Bank of New Zealand",
+   "rateName": "Official Cash Rate (OCR)",
+   "rate": 2.75,
+   "lastChange": "2026-09-02T02:00:00.000Z",
+   "nextDecision": "2026-12-09T01:00:00.000Z",
+   "page": "https://interestratedecision.com/rbnz/",
+   "history": "https://interestratedecision.com/rbnz/rate-history.csv"
+  },
+  {
+   "bank": "snb",
+   "name": "Swiss National Bank",
+   "rateName": "SNB policy rate",
+   "rate": 0,
+   "lastChange": "2025-06-19T07:30:00.000Z",
+   "nextDecision": "2026-12-10T08:30:00.000Z",
+   "page": "https://interestratedecision.com/snb/",
+   "history": "https://interestratedecision.com/snb/rate-history.csv"
+  },
+  {
+   "bank": "norges",
+   "name": "Norges Bank",
+   "rateName": "policy rate",
+   "rate": 4.5,
+   "lastChange": "2026-09-24T08:00:00.000Z",
+   "nextDecision": "2026-11-05T09:00:00.000Z",
+   "page": "https://interestratedecision.com/norges/",
+   "history": "https://interestratedecision.com/norges/rate-history.csv"
+  },
+  {
+   "bank": "riksbank",
+   "name": "Sveriges Riksbank",
+   "rateName": "policy rate",
+   "rate": 1.75,
+   "lastChange": "2025-09-23T07:30:00.000Z",
+   "nextDecision": "2026-11-04T08:30:00.000Z",
+   "page": "https://interestratedecision.com/riksbank/",
+   "history": "https://interestratedecision.com/riksbank/rate-history.csv"
+  }
+ ]
+}

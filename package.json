@@ -1,0 +1,16 @@
+{
+  "name": "macro-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Discord app for trading servers: central bank rates and decisions, rate odds, COT positioning, position size, signals and decision alerts.",
+  "type": "module",
+  "license": "MIT",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --env-file=.env src/server.js",
+    "register": "node --env-file=.env scripts/register.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=20.6" }
+}
